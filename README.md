@@ -8,17 +8,18 @@ The purpose of this repo is to collect all the basic React concepts covered up t
 
 ## 📂 Repository Structure
 
-| Section | Description |
-|--------|-------------|
-| 01-basics | React basics: JSX, components, props, and state |
-| 02-working-with-state | Working with state and events |
-| 03-event-handling | Handling events and forms |
-| 04-list-and-conditional-rendering | Lists and conditional rendering |
-| 05-styling | Styling: CSS, modules, and inline styles |
-| 06-lifting-state-up | Lifting state up |
-| 07-debugging | Debugging React applications |
-| 08-composition-vs-inheritance | Composition vs inheritance |
-| 09-refs-and-the-dom | Working with refs and the DOM |
+Issue | Section | Description |
+|-----|--------|-------------|
+| #1  | 00-js-refresher | JavaScript ES6+ basics: Destructuring, Arrow Functions, Map/Filter | 
+| --  | 01-basics | React basics: JSX, components, props, and state |
+| --  | 02-working-with-state | Working with state and events |
+| --  | 03-event-handling | Handling events and forms |
+| --  | 04-list-and-conditional-rendering | Lists and conditional rendering |
+| --  | 05-styling | Styling: CSS, modules, and inline styles |
+| --  | 06-lifting-state-up | Lifting state up |
+| --  | 07-debugging | Debugging React applications |
+| --  | 08-composition-vs-inheritance | Composition vs inheritance |
+| --  | 09-refs-and-the-dom | Working with refs and the DOM |
 
 > Note: I will be adding new examples and exercises gradually while progressing through the course.
 
