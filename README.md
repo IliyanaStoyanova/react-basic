@@ -34,17 +34,14 @@ The purpose of this repo is to collect all the basic React concepts covered up t
 
 ## 🚀 How to Run
 
-1. **Clone the repository:**
+### 1. Clone the repository:
 
+```bash
 git clone https://github.com/your-username/react-basics.git
 cd react-basics
-Install dependencies:
-
 npm install
 # or
 yarn install
-
-2. Start the development server:
 npm start
 # or
 yarn start
