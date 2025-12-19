@@ -11,7 +11,7 @@ The purpose of this repo is to collect all the basic React concepts covered up t
 Issue | Section | Description |
 |-----|--------|-------------|
 | #1  | 00-js-refresher | JavaScript ES6+ basics: Destructuring, Arrow Functions, Map/Filter | 
-| --  | 01-basics | React basics: JSX, components, props, and state |
+| #3  | 01-basics | React basics: JSX, components, props, and state |
 | --  | 02-working-with-state | Working with state and events |
 | --  | 03-event-handling | Handling events and forms |
 | --  | 04-list-and-conditional-rendering | Lists and conditional rendering |
